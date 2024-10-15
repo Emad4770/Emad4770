@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emad4770
-- 👀 I’m interested in JavaScript, Java, and Python
-- 🌱 I’m currently learning FullStack development
+- 👀 I’m a FullStack developer interested in JavaScript, React, Java, and Python
+- 🌱 I’m always learning
 - 💞️ I’m looking to collaborate on any coding project
 - 📫 Reach me on Telegram https://t.me/saintjohn333
 
